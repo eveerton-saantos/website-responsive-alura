@@ -1,4 +1,4 @@
-Projeto de treinamento
+Projeto - Website Responsive - Portfolio
 ----------------------
 Esse Website é responsivo para todos os dispositivos.
 Possuindo 2 páginas: 'Home' e 'About'.
